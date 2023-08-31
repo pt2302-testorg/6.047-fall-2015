@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ]
+  ],
+  "legacy_uid": "6acde72e-ef43-8d97-79ba-b02b88f4e56d",
+  "instructors": {
+    "content": [
+      "9cfae9fe-39e4-63e9-6225-748a604c4da1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b65db745-8bfb-7d5b-849a-6125731a6296",
+    "website": "6-047-computational-biology-fall-2015"
+  },
+  "course_title": "Computational Biology",
+  "course_description": "This course covers the algorithmic and machine learning foundations of computational biology combining theory with practice. We cover both foundational topics in computational biology, and current research frontiers. We study fundamental techniques, recent advances in the field, and work directly with current large-scale biological datasets.\n",
+  "department_numbers": [
+    "6",
+    "HST"
+  ],
+  "extra_course_numbers": "6.878,HST.507",
+  "primary_course_number": "6.047",
+  "course_image_thumbnail": {
+    "content": "90fbeeab-25ac-cceb-782f-cef059475876",
+    "website": "6-047-computational-biology-fall-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Online Textbook",
+    "Projects"
+  ],
+  "site_uid": "98e98452-f0f0-429e-adb4-203818e39a6d",
+  "site_short_id": "6.047-fall-2015",
+  "title": "Course Metadata"
+}
